@@ -1,0 +1,20 @@
+/*
+    Colors of new and old terminal of Windows
+*/
+
+:root {
+    --terminal-red: #cc0000;
+    --terminal-blue: #3465a4;
+    --terminal-cyan: #4e9a06;
+    --terminal-purple: #75507b;
+    --terminal-white: #d3d7cf;
+    --terminal-yellow: #c4a000;
+
+    --cmd-blue: #0037da;
+    --cmd-cyan: #3a96dd;
+    --cmd-green: #13a10e;
+    --cmd-purple: #881798;
+    --cmd-red: #c50f1f;
+    --cmd-white: #cccccc;
+    --cmd-yellow: #c19c00;
+}
